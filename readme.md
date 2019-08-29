@@ -24,6 +24,11 @@ Runs the react in the development mode.
 npm run watch
 ```
 
+Configure database and migrate table
+```bash
+php artisan migrate
+```
+
 Runs the development server for the apps.
 ```bash
 php artisan serve
